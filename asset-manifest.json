@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Project-1-React-w-Navbar-and-Form/static/css/main.73bf1578.css",
+    "main.js": "/Project-1-React-w-Navbar-and-Form/static/js/main.b7a5d53a.js",
+    "static/js/787.df7f5605.chunk.js": "/Project-1-React-w-Navbar-and-Form/static/js/787.df7f5605.chunk.js",
+    "static/media/LandingPage.jpg": "/Project-1-React-w-Navbar-and-Form/static/media/LandingPage.ae3a7077cb179a2517a7.jpg",
+    "static/media/Headset.png": "/Project-1-React-w-Navbar-and-Form/static/media/Headset.37833496a72f6689e688.png",
+    "static/media/Monitor.png": "/Project-1-React-w-Navbar-and-Form/static/media/Monitor.7a12274edb18e06cf858.png",
+    "static/media/Ipad.png": "/Project-1-React-w-Navbar-and-Form/static/media/Ipad.003af28473e88894e692.png",
+    "static/media/Ipod.jpg": "/Project-1-React-w-Navbar-and-Form/static/media/Ipod.b55753385a47ec6608e3.jpg",
+    "index.html": "/Project-1-React-w-Navbar-and-Form/index.html",
+    "main.73bf1578.css.map": "/Project-1-React-w-Navbar-and-Form/static/css/main.73bf1578.css.map",
+    "main.b7a5d53a.js.map": "/Project-1-React-w-Navbar-and-Form/static/js/main.b7a5d53a.js.map",
+    "787.df7f5605.chunk.js.map": "/Project-1-React-w-Navbar-and-Form/static/js/787.df7f5605.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73bf1578.css",
+    "static/js/main.b7a5d53a.js"
+  ]
+}
