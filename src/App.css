@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-image: url(../src/LandingPage.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 600px;
+}
+
+.homePage * {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 20px;
+  position: absolute;
+}
+
+.homePage #text1 {
+  text-decoration: solid;
+  font-size: 20px;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.homePage #text2 {
+  font-size: 35px;
+  top: 31%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.homePage #text3 {
+  font-size: 35px;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.homePage #text4 {
+  font-size: 25px;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

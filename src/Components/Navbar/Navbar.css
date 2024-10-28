@@ -1,0 +1,58 @@
+.navbarDiv {
+    background-color: #0f172a;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    gap: 50px;
+    position: sticky;
+    top: 0;
+    padding-right: 50px;
+}
+
+.logo {
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    border-radius: 15%;
+    height: 4rem;
+    width: 10rem;
+    margin: 2rem;
+}
+
+
+/* .imgDiv::after {
+    background-color: white;
+    content: '';
+    display: inline-flex;
+    width: auto;
+    height: 15px;
+    min-width: 200px;
+    max-width: 800px;
+} */
+
+/* STILL NEED TO FIX THE BUTTONS NOT ACTUALLY 
+SITTING ON THE RIGHT OF THE SCREEN */
+
+.navbarDiv .links {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    border-radius: 25%;
+    padding: 5px;
+    height: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+
+}
+
+.navbarDiv .links:hover {
+    background-color: #172554;
+}
+
+.linkDiv {
+    padding: 0.5rem;
+    margin: 0.5rem;
+
+}
